@@ -1,5 +1,5 @@
 # LinkedCollectionToolbox
-A Blender plugin for better linked collections
+A Blender plugin for better linked collections (Compatibility checked with 3.6.1)
 
 ## Tool 1: Create Linked Collection
 Creates a linked collection from the currently active object, organising and naming it and selecting all the objects in the new collection
