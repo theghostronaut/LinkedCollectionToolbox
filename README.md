@@ -56,6 +56,10 @@ The included tool not only saves you from having to go into that menu but also a
 This one is actually very useful and fixes an issue with using the standard way of setting the origin to geometry with linked collections.
 If you want to set your object's origin to be at the center, doing it the normal way will result in changing the positions of linked objects. This happens for ... Blender reasons?
 
+# Installation
+Download linked_collection_toolbox.py, add it to Blender Addons (Edit > Preferences > Add-ons > "Install") and activate it.
+A new tab "Linked Collection Toolbox" will be added to the Viewport toolbar (N)
+
 I wrote some logic to prevent that from happening with this tool.
 
 ![6](https://github.com/theghostronaut/LinkedCollectionToolbox/assets/57066443/85e16212-5585-4b97-88c0-998c62a9f3f9)
