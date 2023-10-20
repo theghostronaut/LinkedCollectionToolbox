@@ -1,6 +1,8 @@
 # LinkedCollectionToolbox
 A Blender plugin for better linked collections (Compatibility checked with 3.6.1)
 
+https://github.com/theghostronaut/LinkedCollectionToolbox/assets/57066443/24f7a0ac-99cd-4e61-bdca-2418bf6c8390
+
 ## Installation
 Download linked_collection_toolbox.py, add it to Blender Addons (Edit > Preferences > Add-ons > "Install") and activate it.
 A new tab "Linked Collection Toolbox" will be added to the Viewport toolbar (N)
